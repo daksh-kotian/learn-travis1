@@ -1,0 +1,15 @@
+{
+  "name": "learn-travis1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.13.6"
+  }
+}
